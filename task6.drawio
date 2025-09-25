@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="J9Pa3d5gjXYiWFknYrnc">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fHxviRR_oRWAMpJC_KN--1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="231" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--3" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="fHxviRR_oRWAMpJC_KN--4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--4" value="New User?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--7" value="Recognize the Face" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--8" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="340" as="sourcePoint" />
+            <mxPoint x="395" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--9" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="490" as="sourcePoint" />
+            <mxPoint x="395" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="fHxviRR_oRWAMpJC_KN--10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="630" />
+              <mxPoint x="790" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--10" value="Face Recognized" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="690" as="sourcePoint" />
+            <mxPoint x="395" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--12" value="Stored with csv file&lt;div&gt;with registration&amp;nbsp;&lt;/div&gt;&lt;div&gt;Number &amp;amp; Date&lt;/div&gt;&lt;div&gt;Time of Entry&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--16" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="830" as="sourcePoint" />
+            <mxPoint x="399.5" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--17" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--18" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="fHxviRR_oRWAMpJC_KN--19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="274.5" as="sourcePoint" />
+            <mxPoint x="600" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--19" value="Give your&lt;div&gt;Photograph&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="610" y="245" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--23" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="fHxviRR_oRWAMpJC_KN--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="460" as="sourcePoint" />
+            <mxPoint x="640" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--24" value="Store the face&lt;div&gt;data in folder&lt;/div&gt;&lt;div&gt;on your name&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHxviRR_oRWAMpJC_KN--25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="fHxviRR_oRWAMpJC_KN--24" target="fHxviRR_oRWAMpJC_KN--19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="410" as="sourcePoint" />
+            <mxPoint x="690" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
